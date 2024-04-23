@@ -1,0 +1,13 @@
+.taskContainer{
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+}
+.taskTitle{
+    margin: 4vh 0;
+    text-align: center;
+}
+.sort-cont{
+    display: flex;
+    flex-direction: row-reverse;
+}
